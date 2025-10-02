@@ -20,4 +20,4 @@ This project monitors traffic and pollution levels in a smart city using Python 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jethin123/SmartCityTrafficMonitoring.git
+   https://github.com/jethin123/SmartCityTrafficMonitoring/blob/93e230f62acf145dfd449a1a4fbbb67dffcf6736/idsproject%20(1).ipynb
